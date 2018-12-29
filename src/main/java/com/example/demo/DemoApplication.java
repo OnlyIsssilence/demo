@@ -10,7 +10,7 @@ public class DemoApplication {
 
 
     public static void main(String[] args) {
-        to be or not to be
+        to be or not to bezmq
         SpringApplication.run(DemoApplication.class, args);
     }
 
