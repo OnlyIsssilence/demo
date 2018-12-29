@@ -10,6 +10,7 @@ public class DemoApplication {
 
 
     public static void main(String[] args) {
+        to be or not to be
         SpringApplication.run(DemoApplication.class, args);
     }
 
